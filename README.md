@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
+- 🌱 I’m currently learning **Node.js**
+
+- 👨‍💻 All of my projects are available at [https://portfolio.dylanbryckaert.fr](https://portfolio.dylanbryckaert.fr)
+
+- 📫 How to reach me **dylan.bryckaert@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
